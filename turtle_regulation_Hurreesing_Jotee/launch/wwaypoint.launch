@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+	<node pkg="turtle_regulation_Hurreesing_Jotee" name="set_way_point" type="set_way_point.py"/>		
+</launch>
